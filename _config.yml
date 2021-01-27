@@ -7,8 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanvesh Srivastava / Webpage"
-subtitle                 : "Statistician and Data Scientist"
+title                    : "Sanvesh Srivastava / Statistician and Data Scientist"
 title_separator          : "-"
 name                     : &name "Sanvesh Srivastava"
 description              : &description "personal description"
@@ -84,7 +83,7 @@ author:
   name             : "Sanvesh Srivastava"
   avatar           : "sanvesh.png"
   bio              : "Assistant Professor in the Department of Statistics and Actuarial Science"
-  employer         : The University of Iowa
+  employer         : "The University of Iowa"
   location         : "Iowa City, IA"  
   googlescholar    : "https://scholar.google.com/citations?user=BR_89wIAAAAJ&hl=en"
   email            : "sanvesh-srivastava@uiowa.edu"
@@ -229,7 +228,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
