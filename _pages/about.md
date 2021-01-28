@@ -41,6 +41,6 @@ Funding
 ======
 We are very thankful to the Office of Naval Research (Grant No. ONR-BAA N000141812741) and National Science Foundation, Division of Mathematical Sciences (Grant No. DMS-1854667/1854662) for generously funding our group's research.
 
-![](/images/NSF_logo.png)
-![](/images/onr.png)
+![](/images/NSF_logo.png=100x200)
+![](/images/onr.png=100x300)
 
