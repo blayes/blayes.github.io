@@ -12,7 +12,7 @@ I am an Assistant Professor in the [Department of Statistics and Actuarial Scien
 
 Funding
 ======
-We are very thankful to the Office of Naval Research (Grant No. ONR-BAA N000141812741) and National Science Foundation, Division of Mathematical Sciences (Grant No. DMS-1854667/1854662) for generously funding our group's research.
+We are very thankful to the Office of Naval Research and National Science Foundation, Division of Mathematical Sciences for funding our group's research.
 
 ![](/images/nsf.png) ![](/images/onr.png)
 

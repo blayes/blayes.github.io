@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Biography"
     url: /about/
   
   - title: "Publications"
@@ -18,7 +18,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
+  - title: "Research"
     url: /cv/
     
   # - title: "Guide"
