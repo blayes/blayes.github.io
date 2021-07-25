@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -9,12 +9,14 @@ Research Interests
 ======
 I am broadly interested in developing Bayesian methods that are computationally efficient and have theoretical guarantees. My recent work is focused on developing flexible Bayesian methods and efficient computational algorithms for big data sets, tailored for both their complexity and size. Motivating examples include big data in genomics, geostatistics, and biomedical databases. Simultaneously optimizing for the size and complexity is a challenge with current Bayesian methods. I am developing novel and computationally tractable Bayesian methods using principles from machine learning and asymptotic Bayesian statistics. 
 
-I am currently focusing on using divide-and-conquer techniques and asynchronous computations for scaling Bayesian inference. I am developing Gaussian process regression and classification models for analyzing electronic health records data.
+My current research work has two major themes: 
+* developing sampling algorithms using divide-and-conquer techniques and asynchronous computations for scaling Bayesian inference; and 
+* developing Gaussian process regression and classification models for analyzing electronic health records data.
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=BR_89wIAAAAJ&hl=en). 
 
 Publications (Published or Under Review)
-------
+======
 
 1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. [Arxiv](https://arxiv.org/abs/update). 
 1. Srivastava, S., Xu, Z., Li, Y., Street, N., Gilbertson-White, S. Gaussian process regression and classification using International Classification of Disease codes as covariates. [Arxiv](https://arxiv.org/abs/update). 
@@ -24,7 +26,7 @@ Publications (Published or Under Review)
 2. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. Distributed Bayesian varying coefficients modeling using a Gaussian process prior. [Arxiv](https://arxiv.org/abs/2006.00783). 
 2. Shyamalkumar, N.D., Srivastava, S. An algorithm for distributed Bayesian inference in generalized linear models. [Arxiv](https://arxiv.org/abs/1911.07947).
 3. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. A divide-and-conquer Bayesian approach to large-scale kriging. [Arxiv](https://arxiv.org/abs/1712.09767).
-4. Xu, Y. and Srivastava, S. (2021). Distributed Bayesian Inference in Linear Mixed-Effects Models. Journal of Computational and Graphical Statistics. [JCGS](https://www.tandfonline.com/doi/abs/10.1080/10618600.2020.1869025). 
+4. Xu, Y. and Srivastava, S. (2021). Distributed Bayesian Inference in Linear Mixed-Effects Models. Journal of Computational and Graphical Statistics. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2020.1869025). 
 5. Yao, H., Srivastava, S., Swyers, N. C., Han, F., Doerge, R. W., Birchler, J. A. (2020). Inbreeding depression in genotypically matched diploid and tetraploid maize. Frontiers in Genetics. [Link](https://www.frontiersin.org/articles/10.3389/fgene.2020.564928/full).
 6. Kandemirli, S. G., Priya, S., Chopra, S., Ward, C., Locke, T., Soni, N., Srivastava, S., Jones, K., Bathla, G. (2020). Presurgical detection of brain invasion status in meningiomas based on first-order histogram based texture analysis of contrast enhanced imaging. Clinical Neurology and Neurosurgery. [Link](https://europepmc.org/article/med/32932028).
 7. Bathla, G., Derdeyn, C. P., Moritani, T., Freeman, C. W., Srivastava, S., Song, J., Soni, N. (2020). Retrospective, dual-center review of imaging findings in neurosarcoidosis at presentation: prevalence and imaging sub-types. Clinical Radiology. [Link](https://pubmed.ncbi.nlm.nih.gov/32703543/).
@@ -40,6 +42,9 @@ Publications (Published or Under Review)
 14.	Srivastava, S., Wang, W., Manyam, G., Ordonez, C., Baladandayuthapani, V. (2013). Integrating multi-platform genomic data using hierarchical Bayesian relevance kernel machines. EURASIP Journal on Bioinformatics and Systems Biology. [Link](https://pubmed.ncbi.nlm.nih.gov/23809014/).
 15.	Auer, P. L., Srivastava, S., Doerge, R. W. (2012). Differential expression--the next generation and beyond. Briefings in Functional Genomics. [Link](https://academic.oup.com/bfg/article/11/1/57/191815).
 
+Funding
+------
 
+My research work is funded by grants from the Office of Naval Research and National Science Foundation. 
 
 
