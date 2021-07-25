@@ -15,10 +15,10 @@ Students
 
 I have the pleasure of advising many bright undergraduate and graduate students. I am currently working with following students:
 
-1. Ziyu Gao,
-2. [Ian Hultman](https://stat.uiowa.edu/people),
-1. [Zongyi Xu](https://stat.uiowa.edu/people),
-1. [Chunlei Wang](https://stat.uiowa.edu/people).
+1. Ziyu Gao
+2. [Ian Hultman](https://stat.uiowa.edu/people)
+1. [Zongyi Xu](https://stat.uiowa.edu/people)
+1. [Chunlei Wang](https://stat.uiowa.edu/people)
 
 Alumni
 ------
