@@ -9,20 +9,37 @@ Research Interests
 ======
 I am broadly interested in developing Bayesian methods that are computationally efficient and have theoretical guarantees. My recent work is focused on developing flexible Bayesian methods and efficient computational algorithms for big data sets, tailored for both their complexity and size. Motivating examples include big data in genomics, geostatistics, and biomedical databases. Simultaneously optimizing for the size and complexity is a challenge with current Bayesian methods. I am developing novel and computationally tractable Bayesian methods using principles from machine learning and asymptotic Bayesian statistics. 
 
-Divide-and-Conquer Bayesian Inference
+I am currently focusing on using divide-and-conquer techniques and asynchronous computations for scaling Bayesian inference. I am developing Gaussian process regression and classification models for analyzing electronic health records data.
+
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=BR_89wIAAAAJ&hl=en). 
+
+Publications (Published or Under Review)
 ------
 
-Gaussian Process
-------
+1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. [Arxiv](https://arxiv.org/abs/update). 
+1. Srivastava, S., Xu, Z., Li, Y., Street, N., Gilbertson-White, S. Gaussian process regression and classification using International Classification of Disease codes as covariates. [Arxiv](https://arxiv.org/abs/update). 
+1. Wang, C. and Srivastava, S. Divide-and-conquer Bayesian inference in hidden Markov models. [Arxiv](https://arxiv.org/abs/2105.14395). 
+2. Wang, C. and Srivastava, S. Asymptotic Normality of the Posterior Distributions in a Class of Hidden Markov Models. [Arxiv](https://arxiv.org/abs/2105.14394).
+3. Savitsky, T., Williams, M., Srivastava, S. Pseudo Bayesian estimation of one-way ANOVA model in complex surveys. 
+2. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. Distributed Bayesian varying coefficients modeling using a Gaussian process prior. [Arxiv](https://arxiv.org/abs/2006.00783). 
+2. Shyamalkumar, N.D., Srivastava, S. An algorithm for distributed Bayesian inference in generalized linear models. [Arxiv](https://arxiv.org/abs/1911.07947).
+3. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. A divide-and-conquer Bayesian approach to large-scale kriging. [Arxiv](https://arxiv.org/abs/1712.09767).
+4. Xu, Y. and Srivastava, S. (2021). Distributed Bayesian Inference in Linear Mixed-Effects Models. Journal of Computational and Graphical Statistics. [JCGS](https://www.tandfonline.com/doi/abs/10.1080/10618600.2020.1869025). 
+5. Yao, H., Srivastava, S., Swyers, N. C., Han, F., Doerge, R. W., Birchler, J. A. (2020). Inbreeding depression in genotypically matched diploid and tetraploid maize. Frontiers in Genetics. [Link](https://www.frontiersin.org/articles/10.3389/fgene.2020.564928/full).
+6. Kandemirli, S. G., Priya, S., Chopra, S., Ward, C., Locke, T., Soni, N., Srivastava, S., Jones, K., Bathla, G. (2020). Presurgical detection of brain invasion status in meningiomas based on first-order histogram based texture analysis of contrast enhanced imaging. Clinical Neurology and Neurosurgery. [Link](https://europepmc.org/article/med/32932028).
+7. Bathla, G., Derdeyn, C. P., Moritani, T., Freeman, C. W., Srivastava, S., Song, J., Soni, N. (2020). Retrospective, dual-center review of imaging findings in neurosarcoidosis at presentation: prevalence and imaging sub-types. Clinical Radiology. [Link](https://pubmed.ncbi.nlm.nih.gov/32703543/).
+8. Srivastava, S., DePalma, G., Liu, C. (2019). Distributed Expectation-Maximization algorithm for massive data: The DEM algorithm. Journal of Computational and Graphical Statistics. [Arxiv](https://arxiv.org/abs/1806.07533).
+9. Srivastava, S., Li, C., Dunson, D. B. (2018). Scalable Bayes via barycenter in Wasserstein space. Journal of Machine Learning Research. [Link](https://jmlr.org/papers/v19/17-084.html).
+10. Savitsky, T. D. and Srivastava, S. (2018). Scalable Bayes under informative sampling. Scandinavian Journal of Statistics. [Arxiv](https://arxiv.org/abs/1606.07488).
+11. Minsker, S., Srivastava, S., Lin, L., Dunson, D. B. (2017). Robust and scalable Bayes via a median of subset posterior measures. Journal of Machine Learning Research. [Link](https://jmlr.org/papers/v18/16-655.html).
+12. Schaich Borg, J., Srivastava, S., Lin, L., Dunson, D. B., Dziraza, K., de Lecea, L. (2017). Anterior cingulate and insula sub-networks encode intersubjective avoidance in rats. Brain and Behavior. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.710).
+13. Srivastava, S., Engelhardt, B. E., Dunson, D. B. (2017). Expandable factor analysis. Biometrika. [Arxiv](https://arxiv.org/abs/1407.1158).
+14. Li, C., Srivastava, S., Dunson, D. B. (2017). PIE: simple, scalable and accurate posterior interval estimation. Biometrika. [Arxiv](https://arxiv.org/abs/1605.04029).
+12.	Johnson, A. J., Shukle, R. H., Chen, M.-S., Srivastava, S., O. (2015). Differential expression of candidate salivary effector proteins in field collections of Hessian fly, Mayetiola destructor. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406158/).
+13.	Nagarajan, S., Srivastava, S., Sherman, L. A. (2014). Essential role of the plasmid hik31 operon in regulating central metabolism in the dark in Synechocystis sp. PCC 6803. Molecular microbiology. [Link](https://pubmed.ncbi.nlm.nih.gov/24237382/).
+14.	Srivastava, S., Wang, W., Manyam, G., Ordonez, C., Baladandayuthapani, V. (2013). Integrating multi-platform genomic data using hierarchical Bayesian relevance kernel machines. EURASIP Journal on Bioinformatics and Systems Biology. [Link](https://pubmed.ncbi.nlm.nih.gov/23809014/).
+15.	Auer, P. L., Srivastava, S., Doerge, R. W. (2012). Differential expression--the next generation and beyond. Briefings in Functional Genomics. [Link](https://academic.oup.com/bfg/article/11/1/57/191815).
 
 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
