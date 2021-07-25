@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group"
+title: "Research Group"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Collaborators
-------
-
-I have been extremely lucky to have some of the most talented collaborators. Working with them has significantly impacted my growth as a researcher and improved the quality of my work. I am actively collaborating with 
-
-1. [Dipankar Bandopadhyay](https://www.people.vcu.edu/~dbandyop/),
-2. [Stephanie Gilbertson-White](http://www.nursing.uiowa.edu/faculty-staff/faculty-directory/sgilbertsonwhite),
-2. [Rainbo Hultman](https://hultman.lab.uiowa.edu/),
-1. [Rajarshi Guhaniyogi](https://users.soe.ucsc.edu/~rajguhaniyogi/),
-1. [Kshitij Khare](http://users.stat.ufl.edu/~kdkhare/),
-1. [Cheng Li](http://blog.nus.edu.sg/stalic/),
-1. [Terrance Savitsky](https://www.bls.gov/osmr/contact.htm),
-
-If you have any projects that would benefit from my expertise, then please email me. 
-
 Students
 ------
 
-I have the pleasure of advising bright graduate students. I am currently working with 
+I have the pleasure of advising many bright undergraduate and graduate students. I am currently working with following students:
 
-1. [Chunlei Wang](https://stat.uiowa.edu),
-1. [Zongyi Xu](https://stat.uiowa.edu),
-2. [Ian Hultman](https://stat.uiowa.edu).
+1. Ziyu Gao,
+2. [Ian Hultman](https://stat.uiowa.edu/people),
+1. [Zongyi Xu](https://stat.uiowa.edu/people),
+1. [Chunlei Wang](https://stat.uiowa.edu/people).
 
-In the past, I have worked with
-1. [Yixiang Xu](https://dlab.berkeley.edu/people/yixiang-xu),
-1. [Yunyi Li](https://www.mccombs.utexas.edu/PhD/Areas-of-Study/IROM),
-2. [Ian Hultman](https://stat.uiowa.edu).
+Alumni
+------
 
+1. [Yunyi Li](https://www.mccombs.utexas.edu/PhD/Areas-of-Study/IROM), Ph.D., UT Austin
+1. [Yixiang Xu](https://dlab.berkeley.edu/people/yixiang-xu), Ph.D., UC Berkeley 
+2. Yilin Ye, M.S., Vanderbilt University
+3. Shiyang Chen, M.S., ComScore
+
+Collaborators
+------
+
+I am actively collaborating with [Dipankar Bandopadhyay](https://www.people.vcu.edu/~dbandyop/), [Stephanie Gilbertson-White](http://www.nursing.uiowa.edu/faculty-staff/faculty-directory/sgilbertsonwhite), [Rainbo Hultman](https://hultman.lab.uiowa.edu/), [Rajarshi Guhaniyogi](https://users.soe.ucsc.edu/~rajguhaniyogi/), [Kshitij Khare](http://users.stat.ufl.edu/~kdkhare/), [Cheng Li](http://blog.nus.edu.sg/stalic/), [Terrance Savitsky](https://www.bls.gov/osmr/contact.htm). 
+
+If you have any projects that would benefit from my expertise, then please email me. 
