@@ -11,7 +11,7 @@ redirect_from:
 
 
 Students
-------
+======
 
 I have the pleasure of advising many bright undergraduate and graduate students. I am currently working with following students:
 
@@ -29,13 +29,13 @@ Alumni
 3. Shiyang Chen, Analyst, ComScore
 
 Collaborators
-------
+======
 
 I am actively collaborating with [Dipankar Bandopadhyay](https://www.people.vcu.edu/~dbandyop/), [Stephanie Gilbertson-White](http://www.nursing.uiowa.edu/faculty-staff/faculty-directory/sgilbertsonwhite), [Rainbo Hultman](https://hultman.lab.uiowa.edu/), [Rajarshi Guhaniyogi](https://users.soe.ucsc.edu/~rajguhaniyogi/), [Kshitij Khare](http://users.stat.ufl.edu/~kdkhare/), [Cheng Li](http://blog.nus.edu.sg/stalic/), [Terrance Savitsky](https://www.bls.gov/osmr/contact.htm). 
 
 If you have any projects that would benefit from my expertise, then please email me. 
 
 Acknowledgment
-------
+======
 
 Thanks the Office of Naval Research and National Science Foundation for their generous funding. 

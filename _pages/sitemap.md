@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "sanvesh-srivastava@uiowa.edu"
+title: ""
 permalink: /sitemap/
-author_profile: false
+author_profile: true
 ---
 
