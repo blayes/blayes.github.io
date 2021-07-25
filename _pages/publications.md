@@ -13,11 +13,13 @@ My current research work has two major themes:
 * developing sampling algorithms using divide-and-conquer techniques and asynchronous computations for scaling Bayesian inference; and 
 * developing Gaussian process regression and classification models for analyzing electronic health records data.
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=BR_89wIAAAAJ&hl=en). 
+You can find my articles on [Google Scholar](https://scholar.google.com/citations?user=BR_89wIAAAAJ&hl=en). 
+
+You can find the code for most of the manuscripts at [Github](https://github.com/blayes). 
 
 Publications (Published or Under Review)
 ======
-
+ 
 1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. [Arxiv](https://arxiv.org/abs/update). 
 1. Srivastava, S., Xu, Z., Li, Y., Street, N., Gilbertson-White, S. Gaussian process regression and classification using International Classification of Disease codes as covariates. [Arxiv](https://arxiv.org/abs/update). 
 1. Wang, C. and Srivastava, S. Divide-and-conquer Bayesian inference in hidden Markov models. [Arxiv](https://arxiv.org/abs/2105.14395). 
