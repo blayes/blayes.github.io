@@ -25,7 +25,7 @@ Alumni
 1. [Yunyi Li](https://www.mccombs.utexas.edu/PhD/Areas-of-Study/IROM), Ph.D., UT Austin
 1. [Yixiang Xu](https://dlab.berkeley.edu/people/yixiang-xu), Ph.D., UC Berkeley 
 2. Yilin Ye, M.S., Vanderbilt University
-3. Shiyang Chen, M.S., ComScore
+3. Shiyang Chen, Analyst, ComScore
 
 Collaborators
 ------
