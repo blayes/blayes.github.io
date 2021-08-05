@@ -16,7 +16,7 @@ I have extensive experience in collaborating with scientists and teaching statis
 
 Funding
 ======
-I am very thankful to the Office of Naval Research and National Science Foundation, Division of Mathematical Sciences for funding our group's research.
+Thanks to the Office of Naval Research and National Science Foundation, Division of Mathematical Sciences for funding our group's research.
 
 ![](/images/nsf.png) ![](/images/onr.png)
 
