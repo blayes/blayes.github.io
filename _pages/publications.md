@@ -20,7 +20,7 @@ You can find the code for most of the manuscripts at [Github](https://github.com
 Publications (Published or Under Review)
 ======
  
-1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. [Arxiv](https://arxiv.org/abs/update). 
+1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. [Arxiv](https://arxiv.org/abs/update) [Code](https://github.com/blayes/ADDA). 
 1. Srivastava, S., Xu, Z., Li, Y., Street, N., Gilbertson-White, S. Gaussian process regression and classification using International Classification of Disease codes as covariates. [Arxiv](http://arxiv.org/abs/2108.01813) [Code](https://github.com/blayes/ehr-data-analysis). 
 1. Wang, C. and Srivastava, S. Divide-and-conquer Bayesian inference in hidden Markov models. [Arxiv](https://arxiv.org/abs/2105.14395). 
 2. Wang, C. and Srivastava, S. Asymptotic Normality of the Posterior Distributions in a Class of Hidden Markov Models. [Arxiv](https://arxiv.org/abs/2105.14394).
