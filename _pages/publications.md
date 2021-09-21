@@ -20,12 +20,12 @@ You can find the code for most of the manuscripts at [Github](https://github.com
 Publications (Published or Under Review)
 ======
  
-1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. [Arxiv](https://arxiv.org/abs/update) [Code](https://github.com/blayes/ADDA). 
+1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. [Arxiv](https://arxiv.org/abs/2109.08969) [Code](https://github.com/blayes/ADDA). 
 1. Srivastava, S., Xu, Z., Li, Y., Street, N., Gilbertson-White, S. Gaussian process regression and classification using International Classification of Disease codes as covariates. [Arxiv](http://arxiv.org/abs/2108.01813) [Code](https://github.com/blayes/ehr-data-analysis). 
 1. Wang, C. and Srivastava, S. Divide-and-conquer Bayesian inference in hidden Markov models. [Arxiv](https://arxiv.org/abs/2105.14395). 
 2. Wang, C. and Srivastava, S. Asymptotic Normality of the Posterior Distributions in a Class of Hidden Markov Models. [Arxiv](https://arxiv.org/abs/2105.14394).
 3. Savitsky, T., Williams, M., Srivastava, S. Pseudo Bayesian estimation of one-way ANOVA model in complex surveys. 
-2. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. Distributed Bayesian varying coefficients modeling using a Gaussian process prior. [Arxiv](https://arxiv.org/abs/2006.00783). 
+2. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. Distributed Bayesian varying coefficients modeling using a Gaussian process prior. Accepted at JMLR subject to minor revisions. [Arxiv](https://arxiv.org/abs/2006.00783). 
 2. Shyamalkumar, N.D., Srivastava, S. An algorithm for distributed Bayesian inference in generalized linear models. [Arxiv](https://arxiv.org/abs/1911.07947) [Code](https://github.com/blayes/location-scatter-wasp). 
 3. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. A divide-and-conquer Bayesian approach to large-scale kriging. [Arxiv](https://arxiv.org/abs/1712.09767) [Code](https://github.com/blayes/LSWASP).
 4. Xu, Y. and Srivastava, S. (2021). Distributed Bayesian Inference in Linear Mixed-Effects Models. Journal of Computational and Graphical Statistics. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2020.1869025). 
