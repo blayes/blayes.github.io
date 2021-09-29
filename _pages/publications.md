@@ -22,7 +22,7 @@ Publications (Published or Under Review)
  
 1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. [Arxiv](https://arxiv.org/abs/2109.08969) [Code](https://github.com/blayes/ADDA). 
 1. Srivastava, S., Xu, Z., Li, Y., Street, N., Gilbertson-White, S. Gaussian process regression and classification using International Classification of Disease codes as covariates. [Arxiv](http://arxiv.org/abs/2108.01813) [Code](https://github.com/blayes/ehr-data-analysis). 
-1. Wang, C. and Srivastava, S. Divide-and-conquer Bayesian inference in hidden Markov models. [Arxiv](https://arxiv.org/abs/2105.14395). 
+1. Wang, C. and Srivastava, S. Divide-and-conquer Bayesian inference in hidden Markov models. Acceptance at EJS subject to major revisions. [Arxiv](https://arxiv.org/abs/2105.14395). 
 2. Wang, C. and Srivastava, S. Asymptotic Normality of the Posterior Distributions in a Class of Hidden Markov Models. [Arxiv](https://arxiv.org/abs/2105.14394).
 3. Savitsky, T., Williams, M., Srivastava, S. Pseudo Bayesian estimation of one-way ANOVA model in complex surveys. 
 2. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. Distributed Bayesian varying coefficients modeling using a Gaussian process prior. Accepted at JMLR subject to minor revisions. [Arxiv](https://arxiv.org/abs/2006.00783). 
