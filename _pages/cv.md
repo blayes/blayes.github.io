@@ -19,12 +19,16 @@ I have the pleasure of advising many bright undergraduate and graduate students.
 2. [James "JC" Thomas](https://stat.uiowa.edu/people)
 2. [Ian Hultman](https://stat.uiowa.edu/people)
 1. [Zongyi Xu](https://stat.uiowa.edu/people)
-1. [Chunlei Wang](https://stat.uiowa.edu/people)
 
-Alumni (and their first position)
+
+Ph.D. Alumni (and their first position)
+------
+1. [Chunlei Wang](https://www.linkedin.com/in/chunlei-wang-44966318b), Data Scientist at Google.
+
+B.S. and M.S. Alumni (and their first position)
 ------
 
-1. [Ziyu Gao] (https://stat.osu.edu/), Ph.D. student, Ohio State University
+1. [Ziyu Gao](https://stat.osu.edu/), Ph.D. student, Ohio State University
 1. [Yunyi Li](https://www.mccombs.utexas.edu/PhD/Areas-of-Study/IROM), Ph.D. student, UT Austin
 1. [Yixiang Xu](https://dlab.berkeley.edu/people/yixiang-xu), Ph.D. student, UC Berkeley 
 2. Yilin Ye, M.S. student, Vanderbilt University
