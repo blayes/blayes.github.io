@@ -9,9 +9,10 @@ Research Interests
 ======
 I am broadly interested in developing Bayesian methods that are computationally efficient and have theoretical guarantees. My recent work is focused on developing flexible Bayesian methods and efficient computational algorithms for big data sets, tailored for both their complexity and size. Motivating examples include big data in genomics, geostatistics, and biomedical databases. Simultaneously optimizing for the size and complexity is a challenge with current Bayesian methods. I am developing novel and computationally tractable Bayesian methods using principles from machine learning and asymptotic Bayesian statistics. 
 
-My current research work has two major themes: 
-* developing sampling algorithms using divide-and-conquer techniques and asynchronous computations for scaling Bayesian inference; and 
-* developing Gaussian process regression and classification models for analyzing electronic health records data.
+My current research work has three major themes: 
+* developing sampling algorithms using divide-and-conquer techniques and asynchronous computations for scaling Bayesian inference;  
+* developing parametric and nonparametric models for analyzing electronic health records data, where the covariates have non-linear dependence structures such as grammar and graph-based hierarchy; and 
+* developing array-variate models for modeling multimodal data from local field potentials, brain imaging, and gene expression.
 
 You can find my articles on [Google Scholar](https://scholar.google.com/citations?user=BR_89wIAAAAJ&hl=en). 
 
