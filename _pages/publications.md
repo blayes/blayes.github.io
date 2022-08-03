@@ -19,14 +19,15 @@ You can find the code for most of the manuscripts at [Github](https://github.com
 
 Publications (Published or Under Review)
 ======
- 
-1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. [Arxiv](https://arxiv.org/abs/2109.08969) [Code](https://github.com/blayes/ADDA). 
+
+1. Schaffler, M.D., Johnson, M., Hing, B., Kahler, P., Hultman, I., Srivastava, S., Arnold, J., Blendy, J.N., Hultman, R., Abdus-Saboor, I. A critical role for touch neurons in a skin-brain pathway for stress resilience. [Biorxiv](https://www.biorxiv.org/content/10.1101/2022.05.23.493062v1). 
 1. Srivastava, S., Xu, Z., Li, Y., Street, N., Gilbertson-White, S. Gaussian process regression and classification using International Classification of Disease codes as covariates. [Arxiv](http://arxiv.org/abs/2108.01813) [Code](https://github.com/blayes/ehr-data-analysis). 
-1. Wang, C. and Srivastava, S. Divide-and-conquer Bayesian inference in hidden Markov models. Major revision requested by Electronic Journal of Statistics. [Arxiv](https://arxiv.org/abs/2105.14395). 
-2. Wang, C. and Srivastava, S. Asymptotic Normality of the Posterior Distributions in a Class of Hidden Markov Models. Revising to resubmit at Journal of Statistical Planning and Inference. [Arxiv](https://arxiv.org/abs/2105.14394).
+1. Wang, C. and Srivastava, S. Divide-and-conquer Bayesian inference in hidden Markov models. Revision submitted to the Electronic Journal of Statistics. [Arxiv](https://arxiv.org/abs/2105.14395). 
+2. Wang, C. and Srivastava, S. Asymptotic Normality of the Posterior Distributions in a Class of Hidden Markov Models. Revision submitted to the Journal of Statistical Planning and Inference. [Arxiv](https://arxiv.org/abs/2105.14394).
 3. Savitsky, T., Williams, M., Srivastava, S. Pseudo Bayesian estimation of one-way ANOVA model in complex surveys. 
-2. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. Distributed Bayesian varying coefficients modeling using a Gaussian process prior. Accepted at JMLR subject to minor revisions. [Arxiv](https://arxiv.org/abs/2006.00783). 
-2. Shyamalkumar, N.D., Srivastava, S. An algorithm for Distributed Bayesian Inference. Accepted to appear in STAT [Arxiv](https://arxiv.org/abs/1911.07947) [Code](https://github.com/blayes/location-scatter-wasp). 
+1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. Accepted to appear in JCGS. [Arxiv](https://arxiv.org/abs/2109.08969) [Code](https://github.com/blayes/ADDA). 
+2. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. Distributed Bayesian varying coefficients modeling using a Gaussian process prior (2022). Journal of Machine Learning Research. [Arxiv](https://arxiv.org/abs/2006.00783). 
+2. Shyamalkumar, N.D., Srivastava, S. An algorithm for Distributed Bayesian Inference (2022). STAT [Arxiv](https://arxiv.org/abs/1911.07947) [Code](https://github.com/blayes/location-scatter-wasp). 
 3. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. A divide-and-conquer Bayesian approach to large-scale kriging. Major revision requested by Statistical Science. [Arxiv](https://arxiv.org/abs/1712.09767) [Code](https://github.com/blayes/LSWASP).
 4. Xu, Y. and Srivastava, S. (2021). Distributed Bayesian Inference in Linear Mixed-Effects Models. Journal of Computational and Graphical Statistics. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2020.1869025). 
 5. Yao, H., Srivastava, S., Swyers, N. C., Han, F., Doerge, R. W., Birchler, J. A. (2020). Inbreeding depression in genotypically matched diploid and tetraploid maize. Frontiers in Genetics. [Link](https://www.frontiersin.org/articles/10.3389/fgene.2020.564928/full).
