@@ -16,7 +16,7 @@ Students
 I have the pleasure of advising many bright undergraduate and graduate students. I am currently working with following students:
 
 1. [Payel Ghosal](https://stat.uiowa.edu/people)
-1. [Yitong Li](https://stat.uiowa.edu/people)
+1. [Yutong Jin](https://stat.uiowa.edu/people)
 2. [Sreya Sarkar](https://stat.uiowa.edu/people)
 2. [James "JC" Thomas](https://stat.uiowa.edu/people)
 2. [Alex Liebrecht](https://stat.uiowa.edu/people)
