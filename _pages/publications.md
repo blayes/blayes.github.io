@@ -21,12 +21,14 @@ You can find the code for most of the manuscripts at [Github](https://github.com
 Publications (Published or Under Review)
 ======
 
-1. Schaffler, M.D., Johnson, M., Hing, B., Kahler, P., Hultman, I., Srivastava, S., Arnold, J., Blendy, J.N., Hultman, R., Abdus-Saboor, I. A critical role for touch neurons in a skin-brain pathway for stress resilience. [Biorxiv](https://www.biorxiv.org/content/10.1101/2022.05.23.493062v1). 
-1. Srivastava, S., Xu, Z., Li, Y., Street, N., Gilbertson-White, S. Gaussian process regression and classification using International Classification of Disease codes as covariates. [Arxiv](http://arxiv.org/abs/2108.01813) [Code](https://github.com/blayes/ehr-data-analysis). 
-1. Wang, C. and Srivastava, S. Divide-and-conquer Bayesian inference in hidden Markov models. Revision submitted to the Electronic Journal of Statistics. [Arxiv](https://arxiv.org/abs/2105.14395). 
-2. Wang, C. and Srivastava, S. Asymptotic Normality of the Posterior Distributions in a Class of Hidden Markov Models. Revision submitted to the Journal of Statistical Planning and Inference. [Arxiv](https://arxiv.org/abs/2105.14394).
-3. Savitsky, T., Williams, M., Srivastava, S. Pseudo Bayesian estimation of one-way ANOVA model in complex surveys. 
-1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings. Accepted to appear in JCGS. [Arxiv](https://arxiv.org/abs/2109.08969) [Code](https://github.com/blayes/ADDA). 
+1. Winter, S., Campbell, T., Lin, L., Srivastava, S., Dunson, D.B. Machine Learning and the Future of Bayesian Computation. Under review at Statistical Science. [Arxiv](https://arxiv.org/abs/2304.11251).
+3. Savitsky, T., Williams, M., Srivastava, S. Pseudo Bayesian estimation of one-way ANOVA model in complex surveys. Submitted to Survey Methodology. [Arxiv](https://arxiv.org/abs/2004.06191). 
+1. Srivastava, S., Xu, Z., Li, Y., Street, N., Gilbertson-White, S. Gaussian process regression and classification using International Classification of Disease codes as covariates. Under revision.  [Arxiv](http://arxiv.org/abs/2108.01813) [Code](https://github.com/blayes/ehr-data-analysis). 
+2. Wang, C. and Srivastava, S. Asymptotic Normality of the Posterior Distributions in a Class of Hidden Markov Models. Under revision. [Arxiv](https://arxiv.org/abs/2105.14394).
+1. Hing, B., Mitchell, S.B, Eberle, M., Filali, Y., Matkovich, M., Kasturirangan, M., Hultman, I., Wyche, W., Jimenez, A., Velamuri, R., Johnson, M., Srivastava, S., Hultman, R. Transcriptomic Evaluation of Stress Vulnerability Network using Single Cell RNA-Seq in mouse Prefrontal Cortex. Under review. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.14.540705v1.abstract).
+1. Schaffler, M.D., Johnson, M., Hing, B., Kahler, P., Hultman, I., Srivastava, S., Arnold, J., Blendy, J.N., Hultman, R., Abdus-Saboor, I. A critical role for touch neurons in a skin-brain pathway for stress resilience. Under review. [Biorxiv](https://www.biorxiv.org/content/10.1101/2022.05.23.493062v1). 
+1. Wang, C. and Srivastava, S. Divide-and-conquer Bayesian inference in hidden Markov models (2023). Electronic Journal of Statistics. [Arxiv](https://arxiv.org/abs/2105.14395). 
+1. Zhou, J, Khare, K, and Srivastava, S. Asynchronous and Distributed Data Augmentation for Massive Data Settings (2022). Journal of Computational and Graphical Statistics. [Arxiv](https://arxiv.org/abs/2109.08969) [Code](https://github.com/blayes/ADDA). 
 2. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. Distributed Bayesian varying coefficients modeling using a Gaussian process prior (2022). Journal of Machine Learning Research. [Arxiv](https://arxiv.org/abs/2006.00783). 
 2. Shyamalkumar, N.D., Srivastava, S. An algorithm for Distributed Bayesian Inference (2022). STAT [Arxiv](https://arxiv.org/abs/1911.07947) [Code](https://github.com/blayes/location-scatter-wasp). 
 3. Guhaniyogi, R., Li, C., Savitsky, T., Srivastava, S. A divide-and-conquer Bayesian approach to large-scale kriging. Major revision requested by Statistical Science. [Arxiv](https://arxiv.org/abs/1712.09767) [Code](https://github.com/blayes/LSWASP).
