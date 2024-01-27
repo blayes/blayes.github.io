@@ -12,7 +12,7 @@ I am an Associate Professor with tenure since July 1, 2022 in the [Department of
 
 My current research interests are focused on scalable Bayesian computations and dimension reduction. I have focused on scaling posterior computations using the divide-and-conquer technique. Recently, I have been interested in the applications of array variate models and Gaussian processes for biomedical data analysis, including data from multiple technologies and sources. 
 
-I have extensive experience in collaborating with scientists and teaching statistics to students from diverse areas and varied expertise. I am working closely with many colleagues at Iowa. I have developed and taught two classes on statistical learning at at the University of Iowa since Fall 2016 and Spring 2022, respectively. 
+I have extensive experience in collaborating with scientists and teaching statistics to students from diverse areas and varied expertise. I am working closely with many colleagues at Iowa. I have developed and taught two classes on statistical learning at at the University of Iowa since Fall 2016 and Spring 2023, respectively. 
 
 Funding
 ======

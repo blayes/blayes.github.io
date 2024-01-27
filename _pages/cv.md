@@ -15,6 +15,7 @@ Students
 
 I have the pleasure of advising many bright undergraduate and graduate students. I am currently working with following students:
 
+1. [Sumedha Dhar](https://stat.uiowa.edu/people)
 1. [Lyle Paukner](https://stat.uiowa.edu/people)
 2. [Sreya Sarkar](https://stat.uiowa.edu/people)
 2. [Ian Hultman](https://stat.uiowa.edu/people)
@@ -29,7 +30,7 @@ Ph.D. Alumni (and their first position)
 
 B.S. and M.S. Alumni (and their first position)
 ------
-1. [Yutong Jin](https://stat.uiowa.edu/people).
+1. [Yutong Jin](https://stat.uiowa.edu/people), M.S. student at the University of Washington.
 1. [James "JC" Thomas](https://stat.uiowa.edu/people), Ph.D. student at the School of Public Health, University of Iowa.
 1. [Ziyu Gao](https://stat.osu.edu/), Ph.D. student at the Ohio State University.
 1. [Yunyi Li](https://www.mccombs.utexas.edu/PhD/Areas-of-Study/IROM), Ph.D. student at UT Austin.
