@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor with tenure since July 1, 2022 in the [Department of Statistics and Actuarial Science](https://stat.uiowa.edu/) at the [University of Iowa](https://uiowa.edu/) ([*Go Hawkeyes!*](https://hawkeyesports.com/)). I arrived at Iowa in Fall 2015 as an Assistant Professor after pursuing my post-doctoral research at [SAMSI](www.samsi.info) and [Duke University](https://stat.duke.edu), where [David Dunson](https://en.wikipedia.org/wiki/David_Dunson) and [Barbara Engelhardt](https://www.cs.princeton.edu/people/profile/bee) were my mentors. I received my Ph.D. in Statistics in 2013 from [Purdue University](https://www.stat.purdue.edu/) under the guidance of [Rebecca Doerge](https://www.cmu.edu/mcs/people/dean-bio.html). My academic journey in Statistics started at [IIT Kanpur](https://www.iitk.ac.in/math/), where I received a five year integrated M.Sc. in Mathematics and Scientific Computing in 2007.
+I am a tenured Associate Professor in the [Department of Statistics and Actuarial Science](https://stat.uiowa.edu/) at the [University of Iowa](https://uiowa.edu/) (*Go Hawkeyes!*). I joined Iowa in Fall 2015 after postdoctoral research at [SAMSI](https://www.samsi.info) and [Duke University](https://stat.duke.edu), where I was mentored by [David Dunson](https://en.wikipedia.org/wiki/David_Dunson) and [Barbara Engelhardt](https://www.cs.princeton.edu/people/profile/bee). I received my Ph.D. in Statistics in 2013 from [Purdue University](https://www.stat.purdue.edu/) under the guidance of [Rebecca Doerge](https://www.cmu.edu/mcs/people/dean-bio.html). My academic path in statistics began at [IIT Kanpur](https://www.iitk.ac.in/math/), where I completed a five-year integrated M.Sc. in Mathematics and Scientific Computing in 2007.
 
-My current research interests are focused on scalable Bayesian computations and dimension reduction. I have focused on scaling posterior computations using the divide-and-conquer technique. Recently, I have been interested in the applications of array variate models and Gaussian processes for biomedical data analysis, including data from multiple technologies and sources. 
+My research focuses on scalable Bayesian computation, dimension reduction, and array-variate mixed models. I develop divide-and-conquer methods to scale posterior inference. Recently, my work has emphasized applications of array-variate models and high-dimensional Gaussian processes to neuroscience, including multimodal data from local field potentials, gene expression, and imaging.
 
-I have extensive experience in collaborating with scientists and teaching statistics to students from diverse areas and varied expertise. I am working closely with many colleagues at Iowa. I have developed and taught two classes on statistical learning at at the University of Iowa since Fall 2016 and Spring 2023, respectively. 
+I collaborate extensively with scientists and clinicians and teach students across a range of backgrounds. At Iowa, I developed and regularly teach two courses in statistical learning (launched in Fall 2016 and Spring 2023).
 
-Funding
-======
-Thanks to the Office of Naval Research and National Science Foundation, Division of Mathematical Sciences for funding our group's research.
+## Funding
+My research has been supported by the Office of Naval Research, the National Science Foundation’s Division of Mathematical Sciences, and National Institue of Mental Health. Current support includes [NSF DMS-2506058](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2506058&HistoricalAwards=false) (Co-PI) and NIH R01 OD039332 (Co-Investigator with [Rainbo Hultman](https://hultman.lab.uiowa.edu/) and [Hanna Stevens](https://stevens.lab.uiowa.edu/) as MPIs).
 
-![](/images/nsf.png) ![](/images/onr.png)
+![NSF logo](/images/nsf.png)
+```
 
