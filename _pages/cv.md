@@ -13,13 +13,11 @@ redirect_from:
 Students
 ======
 
-I have the pleasure of advising many bright undergraduate and graduate students. I am currently working with following students:
+I have the pleasure of advising many bright undergraduate and graduate students. I am currently working with following Ph.D. students:
 
 1. [Sumedha Dhar](https://stat.uiowa.edu/people)
-1. [Lyle Paukner](https://stat.uiowa.edu/people)
 2. [Sreya Sarkar](https://stat.uiowa.edu/people)
 2. [Ian Hultman](https://stat.uiowa.edu/people)
-1. [Zongyi Xu](https://stat.uiowa.edu/people)
 
 Many students have moved on to the next phase of their careers after working with me at Iowa. 
 
@@ -27,10 +25,14 @@ Ph.D. Alumni (and their first position)
 ------
 1. [Chunlei Wang](https://www.linkedin.com/in/chunlei-wang-44966318b), Data Scientist at Google.
 2. [Alex Liebrecht](https://stat.uiowa.edu/people), Lecturer at the University of Iowa.
+ 
 
 B.S. and M.S. Alumni (and their first position)
 ------
-1. [Yutong Jin](https://stat.uiowa.edu/people), M.S. student at the University of Washington.
+1. [Kirtikanth Kalapatapu](https://www.linkedin.com/in/kirtikanth-k-80173515b/), Ph.D. student at the Purdue University.
+1. [Lyle Paukner](https://www.linkedin.com/in/lyle-paukner-9ba1931a9/), Biostatistician at Wake Forest University School of Medicine
+1. [Nathan Munshower](https://www.linkedin.com/in/nathan-munshower/), Actuary at Allianz, Minneapolis.
+1. [Yutong Jin](https://www.linkedin.com/in/yutong-jin-b3666a1b7/), M.S. student at the University of Washington.
 1. [James "JC" Thomas](https://stat.uiowa.edu/people), Ph.D. student at the School of Public Health, University of Iowa.
 1. [Ziyu Gao](https://stat.osu.edu/), Ph.D. student at the Ohio State University.
 1. [Yunyi Li](https://www.mccombs.utexas.edu/PhD/Areas-of-Study/IROM), Ph.D. student at UT Austin.
@@ -43,9 +45,9 @@ If you'd like to work with me, please email me about your research interests.  I
 Collaborators
 ======
 
-I am actively collaborating with [Dipankar Bandopadhyay](https://www.people.vcu.edu/~dbandyop/), [Ray Bai](http://raybai.net/), [Rajarshi Guhaniyogi](https://users.soe.ucsc.edu/~rajguhaniyogi/), and [Terrance Savitsky](https://www.bls.gov/osmr/contact.htm) on divide-and-conquer algorithms for inference and prediction in a variety of Bayesian parametric and nonparametric models. I am working with [Kshitij Khare](http://users.stat.ufl.edu/~kdkhare/) on Asynchronous Data Augmentation.  [Cheng Li](http://blog.nus.edu.sg/stalic/) and I started working on distributed Bayesian inference as postdoctoral researchers. Our collaboration now focuses primarily on high-dimensional Gaussian processes. 
+I collaborate with [Dipankar Bandopadhyay](https://www.people.vcu.edu/~dbandyop/) and [Ray Bai](http://raybai.net/) on divide-and-conquer methods for inference and prediction in Bayesian parametric and nonparametric models. With [Kshitij Khare](http://users.stat.ufl.edu/~kdkhare/) and [Partha Sarkar](https://www.linkedin.com/in/partha-sarkar-78a6b5a5/), I am developing theory and algorithms supported by an [NSF DMS grant]( (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2506058&HistoricalAwards=false). [Cheng Li](http://blog.nus.edu.sg/stalic/) and I began working on distributed Bayesian inference as postdoctoral researchers, and our current focus is on high-dimensional Gaussian processes.
 
-I collaborate  extensively with scientists and clinicians. My methodological research on EHR data is motivated from the data collected by [Stephanie Gilbertson-White](http://www.nursing.uiowa.edu/faculty-staff/faculty-directory/sgilbertsonwhite) in the College of Nursing. My other collaborator at Iowa is [Rainbo Hultman](https://hultman.lab.uiowa.edu/), whose lab is located in the College of Medicine. The Hultman lab and my research group focuses on modeling local field potential, gene expression, and imaging data.
+I also work closely with scientists and clinicians. My methodological research is shaped by ongoing collaborations with the [Hultman Lab](https://hultman.lab.uiowa.edu/) in the College of Medicine. Together, the Hultman Lab and my group model local field potentials, gene expression, and imaging data.
 
-If you have any projects that would benefit from my expertise, then please email me.
+If you have a project that could benefit from my expertise, please email me.
 
