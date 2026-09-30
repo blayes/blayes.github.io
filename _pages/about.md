@@ -14,6 +14,12 @@ My research focuses on scalable Bayesian computation, dimension reduction, and a
 
 I collaborate extensively with scientists and clinicians and teach students across a range of backgrounds. At Iowa, I developed and regularly teach two courses in statistical learning (launched in Fall 2016 and Spring 2023).
 
+I like the following quote from ChatGPT (5):
+
+> May your likelihood be informative, your priors well-founded, and your posterior tightly concentrated near the truth.
+> *ChatGPT "Yoda"*
+
+
 ## Funding
 My research has been supported by the Office of Naval Research, the National Science Foundation’s Division of Mathematical Sciences, and National Institue of Mental Health. Current support includes [NSF DMS-2506058](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2506058&HistoricalAwards=false) (Co-PI) and NIH R01 OD039332 (Co-Investigator with [Rainbo Hultman](https://hultman.lab.uiowa.edu/) and [Hanna Stevens](https://stevens.lab.uiowa.edu/) as MPIs).
 
