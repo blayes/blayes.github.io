@@ -25,7 +25,7 @@ Publications
 - By year: [Google Scholar](https://scholar.google.com/citations?hl=en&user=BR_89wIAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Funding
-My research has been supported by the Office of Naval Research, the National Science Foundation Division of Mathematical Sciences, and the National Institute of Mental Health. Current support includes [NSF DMS-2506058](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2506058&HistoricalAwards=false) (Co-PI) and NIH R01 OD039332 (Co-Investigator with [Rainbo Hultman](https://hultman.lab.uiowa.edu/) and [Hanna Stevens](https://stevens.lab.uiowa.edu/) as MPIs).
+My research has been supported by the Office of Naval Research, the National Science Foundation Division of Mathematical Sciences, and the National Institute of Mental Health. Current support includes [NSF DMS-2506058](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2506058&HistoricalAwards=false) (Co-PI), NIH R01 OD039332 (Co-Investigator with [Rainbo Hultman](https://hultman.lab.uiowa.edu/) and [Hanna Stevens](https://stevens.lab.uiowa.edu/) as MPIs), R01 AG089922 (Co-Investigator with [Catherine Marcinkiewcz](https://pharmacy.ufl.edu/profile/marcinkiewcz-catherine/) and [Rainbo Hultman](https://hultman.lab.uiowa.edu/) as MPIs), and R01 MH137086 (Co-Investigator with [Rainbo Hultman](https://hultman.lab.uiowa.edu/) as MPI).
 
 ![NSF logo](/images/nsf.png)
 
